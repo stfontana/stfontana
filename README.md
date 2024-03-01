@@ -34,7 +34,6 @@
 
 <p>
 <a href="https://github.com/stfontana">
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stfontana&show_icons=true&theme=radical" />]
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stfontana&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
