@@ -39,10 +39,10 @@
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:sanfontanavs94@gmail.com"><img src="https://img.shields.io/badge/-sanfontanavs94@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/--D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 
 
 <!-- Last Edited on: 01/03/2024 -->
